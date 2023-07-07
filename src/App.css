@@ -1,0 +1,8 @@
+.header-area .container {
+  padding-left: 0;
+  padding-right: 0 !important;
+}
+h2.text-2xl.font-semibold.text-black {
+  border-bottom: 2px solid #FFAE5D;
+  border-style: dashed;
+}
