@@ -4,7 +4,7 @@ import heroImg from '../assets/heroImg.png';
 const HeroArea = () => {
     return (
         <div>
-            <div className="hero_area py-16"
+            <div className="hero_area py-8"
             // style={{ backgroundImage: `url(${herobg})` }}
             >
                 <div className="container">
